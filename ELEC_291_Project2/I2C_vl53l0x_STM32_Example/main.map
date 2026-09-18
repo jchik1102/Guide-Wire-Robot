@@ -1,0 +1,1169 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+                              newlib_stubs.o (errno)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+                              serial.o (__aeabi_idiv)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o) (__aeabi_idiv0)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+                              main.o (fflush)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o) (__sglue)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fwalk.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o) (_fwalk_sglue)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+                              main.o (printf)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+                              main.o (puts)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o) (__sread)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o) (__swbuf_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o) (__swsetup_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memset.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o) (memset)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-closer.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o) (_close_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-impure.o)
+                              main.o (_impure_ptr)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lseekr.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o) (_lseek_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-readr.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o) (_read_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-writer.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o) (_write_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o) (_free_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o) (_malloc_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o) (_vfprintf_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o) (_printf_i)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o) (__sfvwrite_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o) (__smakebuf_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memmove.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o) (memmove)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fstatr.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o) (_fstat_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-isattyr.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o) (_isatty_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-sbrkr.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memchr-stub.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o) (memchr)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memcpy-stub.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o) (memcpy)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o) (_realloc_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-msizer.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o) (_malloc_usable_size_r)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o) (__gnu_thumb1_case_shi)
+C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o) (__aeabi_uidivmod)
+
+There are no discarded input sections
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x08000000         0x00010000
+ram              0x20000000         0x00002000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD main.o
+LOAD hardware.o
+LOAD tof_sensors.o
+LOAD ir_motor.o
+LOAD serial.o
+LOAD startup.o
+LOAD newlib_stubs.o
+LOAD C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a
+LOAD C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a
+START GROUP
+LOAD C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a
+LOAD C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a
+LOAD C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libm.a
+END GROUP
+
+.text           0x08000000     0x4204
+ *(.vectors)
+ .vectors       0x08000000       0xb8 startup.o
+                0x08000000                Vectors
+ *(.after_vectors*)
+ .after_vectors
+                0x080000b8       0x28 startup.o
+                0x080000b8                ResetInit
+ *(.text*)
+ .text          0x080000e0      0x2b0 main.o
+                0x080000e0                main
+ .text          0x08000390       0xdc hardware.o
+                0x080003c8                waitms
+                0x080003ea                gpio_pin_mode_output
+                0x08000426                gpio_write_low
+                0x08000448                gpio_write_high
+ .text          0x0800046c     0x16cc tof_sensors.o
+                0x0800046c                leds_init
+                0x080004d8                led1_on
+                0x080004ee                led1_off
+                0x08000504                led2_on
+                0x0800051a                led2_off
+                0x08000530                xshut_init
+                0x08000590                xshut1_low
+                0x080005b4                xshut2_low
+                0x080005d8                xshut1_release
+                0x080005fc                xshut2_release
+                0x08000620                I2C_init
+                0x080008f0                vl53l0x_device_is_booted
+                0x08000936                vl53l0x_set_address
+                0x080017ca                vl53l0x_init_device
+                0x08001844                vl53l0x_read_range_single_device
+                0x08001a58                print_ref_registers
+ .text          0x08001b38      0x320 ir_motor.o
+                0x08001b38                IR_Motor_Init
+                0x08001c50                TIM2_Handler
+                0x08001d84                process_ir_command
+ .text          0x08001e58      0x5b4 serial.o
+                0x08001e58                ReadCom
+                0x08001ecc                WriteCom
+                0x08001f6c                initUART
+                0x080020bc                USART1_Handler
+                0x080020e8                usart_rx
+                0x08002118                usart_tx
+                0x08002180                PutBuf
+                0x080021e2                GetBuf
+                0x08002238                GetBufCount
+                0x0800224c                eputs
+                0x08002288                eputc
+                0x080022a6                egetc
+                0x080022c0                egets
+                0x0800234c                egetc_echo
+                0x08002372                egets_echo
+ .text          0x0800240c      0x1a8 startup.o
+                0x08002484                initClock
+                0x0800258c                EXTI2_3_Handler
+                0x0800258c                TIM21_Handler
+                0x0800258c                SysTick_Handler
+                0x0800258c                I2C1_Handler
+                0x0800258c                PendSV_Handler
+                0x0800258c                NMI_Handler
+                0x0800258c                WWDG_Handler
+                0x0800258c                RTC_Handler
+                0x0800258c                EXTI4_15_Handler
+                0x0800258c                DMA_CH4_5_6_7_Handler
+                0x0800258c                Default_Handler
+                0x0800258c                LPUART1_Handler
+                0x0800258c                FLASH_Handler
+                0x0800258c                EXTI0_1_Handler
+                0x0800258c                DMA_CH1_Handler
+                0x0800258c                SPI2_Handler
+                0x0800258c                DMA_CH2_3_Handler
+                0x0800258c                I2C2_Handler
+                0x0800258c                SVC_Handler
+                0x0800258c                LPTIM1_Handler
+                0x0800258c                USART2_Handler
+                0x0800258c                SPI1_Handler
+                0x0800258c                RCC_Handler
+                0x0800258c                PVD_Handler
+                0x0800258c                TIM6_Handler
+                0x0800258c                TIM22_Handler
+                0x0800258c                ADC_COMP_Handler
+                0x080025a0                Hard_Fault_Handler
+ .text          0x080025b4      0x29c newlib_stubs.o
+                0x080025b4                _exit
+                0x080025be                _close
+                0x080025d2                _execve
+                0x080025f4                _fork
+                0x0800260c                _fstat
+                0x08002628                _getpid
+                0x08002634                _kill
+                0x08002654                _link
+                0x08002674                _lseek
+                0x0800268a                _stat
+                0x080026a6                _times
+                0x080026ba                _unlink
+                0x080026d8                _wait
+                0x080026f8                _isatty
+                0x08002720                _sbrk
+                0x08002784                _read
+                0x080027fc                _write
+ .text          0x08002850        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+ .text          0x08002850      0x1d4 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+                0x08002850                __divsi3
+                0x08002850                __aeabi_idiv
+                0x08002a1c                __aeabi_idivmod
+ .text          0x08002a24        0x4 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+                0x08002a24                __aeabi_idiv0
+                0x08002a24                __aeabi_ldiv0
+ .text          0x08002a28        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x08002a28      0x10c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+                0x08002a28                __sflush_r
+ .text._fflush_r
+                0x08002b34       0x56 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+                0x08002b34                _fflush_r
+ *fill*         0x08002b8a        0x2 
+ .text.fflush   0x08002b8c       0x30 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+                0x08002b8c                fflush
+ .text          0x08002bbc        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+ .text.std      0x08002bbc       0x6c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x08002c28       0x1c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x08002c44       0x3c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x08002c80       0x18 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x08002c98       0x18 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x08002cb0       0x3c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x08002cec       0x10 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                0x08002cec                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x08002cfc       0x10 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                0x08002cfc                __sfp_lock_release
+ .text.__sfp    0x08002d0c       0xac C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                0x08002d0c                __sfp
+ .text.__sinit  0x08002db8       0x30 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                0x08002db8                __sinit
+ .text.__fp_lock_all
+                0x08002de8       0x1c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                0x08002de8                __fp_lock_all
+ .text.__fp_unlock_all
+                0x08002e04       0x1c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                0x08002e04                __fp_unlock_all
+ .text          0x08002e20        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x08002e20       0x38 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fwalk.o)
+                0x08002e20                _fwalk_sglue
+ .text          0x08002e58        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+ .text._printf_r
+                0x08002e58       0x18 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+                0x08002e58                _iprintf_r
+                0x08002e58                _printf_r
+ .text.printf   0x08002e70       0x20 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+                0x08002e70                iprintf
+                0x08002e70                printf
+ .text          0x08002e90        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+ .text._puts_r  0x08002e90       0xaa C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+                0x08002e90                _puts_r
+ *fill*         0x08002f3a        0x2 
+ .text.puts     0x08002f3c       0x14 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+                0x08002f3c                puts
+ .text          0x08002f50        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x08002f50       0x28 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+                0x08002f50                __sread
+ .text.__seofread
+                0x08002f78        0x4 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+                0x08002f78                __seofread
+ .text.__swrite
+                0x08002f7c       0x38 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+                0x08002f7c                __swrite
+ .text.__sseek  0x08002fb4       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+                0x08002fb4                __sseek
+ .text.__sclose
+                0x08002fe0        0xc C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+                0x08002fe0                __sclose
+ .text          0x08002fec        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+ .text.__swbuf_r
+                0x08002fec       0x82 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+                0x08002fec                __swbuf_r
+ *fill*         0x0800306e        0x2 
+ .text.__swbuf  0x08003070       0x14 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+                0x08003070                __swbuf
+ .text          0x08003084        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+ .text.__swsetup_r
+                0x08003084       0xb8 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+                0x08003084                __swsetup_r
+ .text          0x0800313c        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memset.o)
+ .text.memset   0x0800313c       0x10 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memset.o)
+                0x0800313c                memset
+ .text          0x0800314c        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x0800314c       0x24 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-closer.o)
+                0x0800314c                _close_r
+ .text          0x08003170        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-impure.o)
+ .text          0x08003170        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x08003170       0x28 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lseekr.o)
+                0x08003170                _lseek_r
+ .text          0x08003198        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x08003198       0x28 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-readr.o)
+                0x08003198                _read_r
+ .text          0x080031c0        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x080031c0       0x28 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-writer.o)
+                0x080031c0                _write_r
+ .text          0x080031e8        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x080031e8        0x2 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x080031e8                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x080031ea        0x2 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x080031ea                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x080031ec        0x2 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x080031ec                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x080031ee        0x2 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x080031ee                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x080031f0        0x2 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x080031f0                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x080031f2        0x2 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x080031f2                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x080031f4        0x4 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x080031f4                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x080031f8        0x4 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x080031f8                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x080031fc        0x2 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x080031fc                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x080031fe        0x2 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x080031fe                __retarget_lock_release_recursive
+ .text          0x08003200        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x08003200       0x94 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o)
+                0x08003200                _free_r
+ .text          0x08003294        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x08003294       0x44 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x080032d8      0x100 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+                0x080032d8                _malloc_r
+ .text          0x080033d8        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x080033d8       0x10 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+                0x080033d8                __malloc_lock
+ .text.__malloc_unlock
+                0x080033e8       0x10 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+                0x080033e8                __malloc_unlock
+ .text          0x080033f8        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+ .text.__sfputc_r
+                0x080033f8       0x2a C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x08003422       0x24 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                0x08003422                __sfputs_r
+ .text.__sprint_r
+                0x08003446       0x20 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                0x08003446                __sprint_r
+ *fill*         0x08003466        0x2 
+ .text._vfprintf_r
+                0x08003468      0x224 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                0x08003468                _vfprintf_r
+                0x08003468                _vfiprintf_r
+ .text.vfprintf
+                0x0800368c       0x18 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                0x0800368c                vfprintf
+                0x0800368c                vfiprintf
+ .text          0x080036a4        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text._printf_common
+                0x080036a4       0xde C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x080036a4                _printf_common
+ *fill*         0x08003782        0x2 
+ .text._printf_i
+                0x08003784      0x214 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x08003784                _printf_i
+ .text          0x08003998        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x08003998      0x2c0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+                0x08003998                __sfvwrite_r
+ .text          0x08003c58        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x08003c58       0x54 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+                0x08003c58                __swhatbuf_r
+ .text.__smakebuf_r
+                0x08003cac       0x72 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+                0x08003cac                __smakebuf_r
+ .text          0x08003d1e        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memmove.o)
+ .text.memmove  0x08003d1e       0x26 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memmove.o)
+                0x08003d1e                memmove
+ .text          0x08003d44        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fstatr.o)
+ .text._fstat_r
+                0x08003d44       0x24 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fstatr.o)
+                0x08003d44                _fstat_r
+ .text          0x08003d68        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-isattyr.o)
+ .text._isatty_r
+                0x08003d68       0x24 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-isattyr.o)
+                0x08003d68                _isatty_r
+ .text          0x08003d8c        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x08003d8c       0x24 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-sbrkr.o)
+                0x08003d8c                _sbrk_r
+ .text          0x08003db0        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memchr-stub.o)
+ .text.memchr   0x08003db0       0x16 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memchr-stub.o)
+                0x08003db0                memchr
+ .text          0x08003dc6        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .text.memcpy   0x08003dc6       0x12 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memcpy-stub.o)
+                0x08003dc6                memcpy
+ .text          0x08003dd8        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+ .text._realloc_r
+                0x08003dd8       0x60 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+                0x08003dd8                _realloc_r
+ .text          0x08003e38        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-msizer.o)
+ .text._malloc_usable_size_r
+                0x08003e38       0x10 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-msizer.o)
+                0x08003e38                _malloc_usable_size_r
+ .text          0x08003e48       0x14 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+                0x08003e48                __gnu_thumb1_case_shi
+ .text          0x08003e5c      0x114 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                0x08003e5c                __aeabi_uidiv
+                0x08003e5c                __udivsi3
+                0x08003f68                __aeabi_uidivmod
+ *(.rodata*)
+ .rodata        0x08003f70      0x15a main.o
+ *fill*         0x080040ca        0x2 
+ .rodata        0x080040cc       0x88 tof_sensors.o
+ .rodata        0x08004154       0x7c startup.o
+ .rodata._vfprintf_r.str1.1
+                0x080041d0       0x33 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                                 0x11 (size before relaxing)
+ .rodata._printf_i.str1.1
+                0x08004203        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                                 0x22 (size before relaxing)
+                0x08004204                        . = ALIGN (0x4)
+ *fill*         0x08004203        0x1 
+                0x08004204                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x08004204                        PROVIDE (__init_array_end = .)
+                0x08004204                        . = ALIGN (0x4)
+                0x08004204                        _etext = .
+
+.glue_7         0x08004204        0x0
+ .glue_7        0x08004204        0x0 linker stubs
+
+.glue_7t        0x08004204        0x0
+ .glue_7t       0x08004204        0x0 linker stubs
+
+.vfp11_veneer   0x08004204        0x0
+ .vfp11_veneer  0x08004204        0x0 linker stubs
+
+.v4_bx          0x08004204        0x0
+ .v4_bx         0x08004204        0x0 linker stubs
+
+.iplt           0x08004204        0x0
+ .iplt          0x08004204        0x0 main.o
+
+.rel.dyn        0x08004204        0x0
+ .rel.iplt      0x08004204        0x0 main.o
+
+.data           0x20000000       0x60 load address 0x08004204
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _data = .
+ *(.data*)
+ .data          0x20000000        0x0 main.o
+ .data          0x20000000        0x0 hardware.o
+ .data          0x20000000        0x0 tof_sensors.o
+ .data          0x20000000        0x0 ir_motor.o
+ .data          0x20000000        0x0 serial.o
+ .data          0x20000000        0x0 startup.o
+ .data          0x20000000        0x4 newlib_stubs.o
+                0x20000000                environ
+ .data          0x20000004        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+ .data          0x20000004        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .data          0x20000004        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x20000004        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+ .data          0x20000004        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x20000004        0xc C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                0x20000004                __sglue
+ .data          0x20000010        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fwalk.o)
+ .data          0x20000010        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+ .data          0x20000010        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+ .data          0x20000010        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+ .data          0x20000010        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+ .data          0x20000010        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+ .data          0x20000010        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memset.o)
+ .data          0x20000010        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-closer.o)
+ .data          0x20000010        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x20000010        0x4 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-impure.o)
+                0x20000010                _impure_ptr
+ .data._impure_data
+                0x20000014       0x4c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-impure.o)
+                0x20000014                _impure_data
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lseekr.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-readr.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-writer.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memmove.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fstatr.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-isattyr.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memchr-stub.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-msizer.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+ .data          0x20000060        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                0x20000060                        . = ALIGN (0x4)
+                0x20000060                        _edata = .
+
+.igot.plt       0x20000060        0x0 load address 0x08004264
+ .igot.plt      0x20000060        0x0 main.o
+
+.bss            0x20000060      0x210 load address 0x08004264
+                0x20000060                        _bss = .
+ *(.bss*)
+ .bss           0x20000060        0x0 main.o
+ .bss           0x20000060        0x0 hardware.o
+ .bss           0x20000060        0x0 tof_sensors.o
+ .bss           0x20000060       0x14 ir_motor.o
+ .bss           0x20000074       0xa4 serial.o
+                0x20000074                ComRXBuffer
+                0x200000c0                ComTXBuffer
+                0x2000010c                ComOpen
+                0x20000110                ComError
+                0x20000114                ComBusy
+ .bss           0x20000118        0x0 startup.o
+ .bss           0x20000118        0x8 newlib_stubs.o
+                0x20000118                __env
+ .bss           0x20000120        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+ .bss.errno     0x20000120        0x4 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+                0x20000120                errno
+ .bss           0x20000124        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .bss           0x20000124        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x20000124        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+ .bss           0x20000124        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x20000124      0x138 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                0x20000124                __sf
+ .bss.__stdio_exit_handler
+                0x2000025c        0x4 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                0x2000025c                __stdio_exit_handler
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fwalk.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memset.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-closer.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-impure.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lseekr.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-readr.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-writer.o)
+ .bss           0x20000260        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x20000260        0x1 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x20000260                __lock___arc4random_mutex
+ .bss.__lock___dd_hash_mutex
+                0x20000261        0x1 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x20000261                __lock___dd_hash_mutex
+ .bss.__lock___tz_mutex
+                0x20000262        0x1 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x20000262                __lock___tz_mutex
+ .bss.__lock___env_recursive_mutex
+                0x20000263        0x1 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x20000263                __lock___env_recursive_mutex
+ .bss.__lock___malloc_recursive_mutex
+                0x20000264        0x1 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x20000264                __lock___malloc_recursive_mutex
+ .bss.__lock___at_quick_exit_mutex
+                0x20000265        0x1 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x20000265                __lock___at_quick_exit_mutex
+ .bss.__lock___atexit_recursive_mutex
+                0x20000266        0x1 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x20000266                __lock___atexit_recursive_mutex
+ .bss.__lock___sfp_recursive_mutex
+                0x20000267        0x1 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                0x20000267                __lock___sfp_recursive_mutex
+ .bss           0x20000268        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o)
+ .bss           0x20000268        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x20000268        0x4 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+                0x20000268                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x2000026c        0x4 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+                0x2000026c                __malloc_free_list
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memmove.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fstatr.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-isattyr.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memchr-stub.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-msizer.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+ .bss           0x20000270        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+ *(COMMON)
+                0x20000270                        . = ALIGN (0x4)
+                0x20000270                        _ebss = .
+                [!provide]                        PROVIDE (end = .)
+                0x20000270                        PROVIDE (_HeapStart = .)
+                0x20002000                        PROVIDE (_StackTop = (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(main.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x2bf6
+ .debug_info    0x00000000      0x93a main.o
+ .debug_info    0x0000093a      0x275 hardware.o
+ .debug_info    0x00000baf      0x86b tof_sensors.o
+ .debug_info    0x0000141a      0x59a ir_motor.o
+ .debug_info    0x000019b4      0x7a3 serial.o
+ .debug_info    0x00002157      0x396 startup.o
+ .debug_info    0x000024ed      0x709 newlib_stubs.o
+
+.debug_abbrev   0x00000000      0xc86
+ .debug_abbrev  0x00000000      0x1f9 main.o
+ .debug_abbrev  0x000001f9      0x11e hardware.o
+ .debug_abbrev  0x00000317      0x25b tof_sensors.o
+ .debug_abbrev  0x00000572      0x183 ir_motor.o
+ .debug_abbrev  0x000006f5      0x20e serial.o
+ .debug_abbrev  0x00000903      0x1c8 startup.o
+ .debug_abbrev  0x00000acb      0x1bb newlib_stubs.o
+
+.debug_aranges  0x00000000       0xe8
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 hardware.o
+ .debug_aranges
+                0x00000040       0x20 tof_sensors.o
+ .debug_aranges
+                0x00000060       0x20 ir_motor.o
+ .debug_aranges
+                0x00000080       0x20 serial.o
+ .debug_aranges
+                0x000000a0       0x28 startup.o
+ .debug_aranges
+                0x000000c8       0x20 newlib_stubs.o
+
+.debug_line     0x00000000     0x1f56
+ .debug_line    0x00000000      0x3c5 main.o
+ .debug_line    0x000003c5      0x1e6 hardware.o
+ .debug_line    0x000005ab      0xb7c tof_sensors.o
+ .debug_line    0x00001127      0x2f9 ir_motor.o
+ .debug_line    0x00001420      0x546 serial.o
+ .debug_line    0x00001966      0x2e7 startup.o
+ .debug_line    0x00001c4d      0x309 newlib_stubs.o
+
+.debug_str      0x00000000      0xdf2
+ .debug_str     0x00000000      0xdf2 main.o
+                                0x604 (size before relaxing)
+ .debug_str     0x00000df2        0x0 hardware.o
+                                0x1de (size before relaxing)
+ .debug_str     0x00000df2        0x0 tof_sensors.o
+                                0x5a8 (size before relaxing)
+ .debug_str     0x00000df2        0x0 ir_motor.o
+                                0x35a (size before relaxing)
+ .debug_str     0x00000df2        0x0 serial.o
+                                0x394 (size before relaxing)
+ .debug_str     0x00000df2        0x0 startup.o
+                                0x2d5 (size before relaxing)
+ .debug_str     0x00000df2        0x0 newlib_stubs.o
+                                0x3c6 (size before relaxing)
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 main.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045        0x0 hardware.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045        0x0 tof_sensors.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045        0x0 ir_motor.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045        0x0 serial.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045        0x0 startup.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045        0x0 newlib_stubs.o
+                                 0x46 (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x2c main.o
+ .ARM.attributes
+                0x0000002c       0x2c hardware.o
+ .ARM.attributes
+                0x00000058       0x2c tof_sensors.o
+ .ARM.attributes
+                0x00000084       0x2c ir_motor.o
+ .ARM.attributes
+                0x000000b0       0x2c serial.o
+ .ARM.attributes
+                0x000000dc       0x2c startup.o
+ .ARM.attributes
+                0x00000108       0x2c newlib_stubs.o
+ .ARM.attributes
+                0x00000134       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+ .ARM.attributes
+                0x00000160       0x1e C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000017e       0x1e C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000019c       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x000001c8       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x000001f4       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000220       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+ .ARM.attributes
+                0x0000024c       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+ .ARM.attributes
+                0x00000278       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x000002a4       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+ .ARM.attributes
+                0x000002d0       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+ .ARM.attributes
+                0x000002fc       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000328       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000354       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000380       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x000003ac       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x000003d8       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000404       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000430       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x0000045c       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000488       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x000004b4       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x000004e0       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x0000050c       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+ .ARM.attributes
+                0x00000538       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+ .ARM.attributes
+                0x00000564       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memmove.o)
+ .ARM.attributes
+                0x00000590       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fstatr.o)
+ .ARM.attributes
+                0x000005bc       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-isattyr.o)
+ .ARM.attributes
+                0x000005e8       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000614       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000640       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000066c       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+ .ARM.attributes
+                0x00000698       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-msizer.o)
+ .ARM.attributes
+                0x000006c4       0x1e C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+ .ARM.attributes
+                0x000006e2       0x1e C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+
+.debug_frame    0x00000000     0x11c4
+ .debug_frame   0x00000000       0x34 main.o
+ .debug_frame   0x00000034       0xac hardware.o
+ .debug_frame   0x000000e0      0x338 tof_sensors.o
+ .debug_frame   0x00000418       0x68 ir_motor.o
+ .debug_frame   0x00000480      0x1e8 serial.o
+ .debug_frame   0x00000668       0x94 startup.o
+ .debug_frame   0x000006fc      0x228 newlib_stubs.o
+ .debug_frame   0x00000924       0x20 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000944       0x68 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x000009ac      0x138 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000ae4       0x34 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000b18       0x4c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+ .debug_frame   0x00000b64       0x44 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+ .debug_frame   0x00000ba8       0x90 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000c38       0x48 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+ .debug_frame   0x00000c80       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+ .debug_frame   0x00000cac       0x20 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00000ccc       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000cf8       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000d24       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000d50       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000d7c       0xb0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000e2c       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000e58       0x50 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000ea8       0x40 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000ee8       0x9c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+ .debug_frame   0x00000f84       0x54 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000fd8       0x30 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+ .debug_frame   0x00001008       0x54 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+ .debug_frame   0x0000105c       0x28 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memmove.o)
+ .debug_frame   0x00001084       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fstatr.o)
+ .debug_frame   0x000010b0       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-isattyr.o)
+ .debug_frame   0x000010dc       0x2c C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00001108       0x20 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memchr-stub.o)
+ .debug_frame   0x00001128       0x28 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00001150       0x34 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+ .debug_frame   0x00001184       0x20 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-msizer.o)
+ .debug_frame   0x000011a4       0x20 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+
+.debug_rnglists
+                0x00000000       0x1a
+ .debug_rnglists
+                0x00000000       0x1a startup.o
+
+.debug_line_str
+                0x00000000       0xcd
+ .debug_line_str
+                0x00000000       0xcd C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .debug_line_str
+                0x000000cd        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+                                 0xcd (size before relaxing)
+ .debug_line_str
+                0x000000cd        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+                                 0xcd (size before relaxing)
+ .debug_line_str
+                0x000000cd        0x0 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                                 0xcd (size before relaxing)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_COMP_Handler                                  startup.o
+ComBusy                                           serial.o
+ComError                                          serial.o
+ComOpen                                           serial.o
+ComRXBuffer                                       serial.o
+ComTXBuffer                                       serial.o
+DMA_CH1_Handler                                   startup.o
+DMA_CH2_3_Handler                                 startup.o
+DMA_CH4_5_6_7_Handler                             startup.o
+Default_Handler                                   startup.o
+EXTI0_1_Handler                                   startup.o
+EXTI2_3_Handler                                   startup.o
+EXTI4_15_Handler                                  startup.o
+FLASH_Handler                                     startup.o
+GetBuf                                            serial.o
+GetBufCount                                       serial.o
+Hard_Fault_Handler                                startup.o
+I2C1_Handler                                      startup.o
+I2C2_Handler                                      startup.o
+I2C_init                                          tof_sensors.o
+                                                  main.o
+IR_Motor_Init                                     ir_motor.o
+                                                  main.o
+LPTIM1_Handler                                    startup.o
+LPUART1_Handler                                   startup.o
+NMI_Handler                                       startup.o
+PVD_Handler                                       startup.o
+PendSV_Handler                                    startup.o
+PutBuf                                            serial.o
+RCC_Handler                                       startup.o
+RTC_Handler                                       startup.o
+ReadCom                                           serial.o
+ResetInit                                         startup.o
+SPI1_Handler                                      startup.o
+SPI2_Handler                                      startup.o
+SVC_Handler                                       startup.o
+SysTick_Handler                                   startup.o
+TIM21_Handler                                     startup.o
+TIM22_Handler                                     startup.o
+TIM2_Handler                                      ir_motor.o
+TIM6_Handler                                      startup.o
+USART1_Handler                                    serial.o
+USART2_Handler                                    startup.o
+Vectors                                           startup.o
+WWDG_Handler                                      startup.o
+WriteCom                                          serial.o
+_HeapStart                                        newlib_stubs.o
+_StackTop                                         newlib_stubs.o
+                                                  startup.o
+__aeabi_idiv                                      C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+                                                  serial.o
+__aeabi_idiv0                                     C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+__aeabi_idivmod                                   C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+__aeabi_ldiv0                                     C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+__aeabi_uidiv                                     C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+__aeabi_uidivmod                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+__divsi3                                          C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+__env                                             newlib_stubs.o
+__fp_lock_all                                     C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__fp_unlock_all                                   C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__gnu_thumb1_case_shi                             C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+__init_array_end                                  startup.o
+__init_array_start                                startup.o
+__lock___arc4random_mutex                         C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__lock___at_quick_exit_mutex                      C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__lock___atexit_recursive_mutex                   C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__lock___dd_hash_mutex                            C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__lock___env_recursive_mutex                      C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__lock___malloc_recursive_mutex                   C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+__lock___sfp_recursive_mutex                      C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__lock___tz_mutex                                 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__malloc_free_list                                C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o)
+__malloc_lock                                     C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o)
+__malloc_sbrk_start                               C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+__malloc_unlock                                   C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o)
+__retarget_lock_acquire                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__retarget_lock_acquire_recursive                 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+__retarget_lock_close                             C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__retarget_lock_close_recursive                   C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__retarget_lock_init                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__retarget_lock_init_recursive                    C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__retarget_lock_release                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__retarget_lock_release_recursive                 C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mlock.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+__retarget_lock_try_acquire                       C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__retarget_lock_try_acquire_recursive             C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lock.o)
+__sclose                                          C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__seofread                                        C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+__sf                                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-impure.o)
+__sflush_r                                        C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+__sfp                                             C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__sfp_lock_acquire                                C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__sfp_lock_release                                C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__sfputs_r                                        C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+__sfvwrite_r                                      C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+__sglue                                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+__sinit                                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+__smakebuf_r                                      C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+__sprint_r                                        C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+__sread                                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__sseek                                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__stdio_exit_handler                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__swbuf                                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+__swbuf_r                                         C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+__swhatbuf_r                                      C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+__swrite                                          C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+__swsetup_r                                       C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+__udivsi3                                         C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\lib\gcc\arm-none-eabi\15.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+_close                                            newlib_stubs.o
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-closer.o)
+_close_r                                          C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-closer.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+_data                                             startup.o
+_ebss                                             startup.o
+_edata                                            startup.o
+_etext                                            startup.o
+_execve                                           newlib_stubs.o
+_exit                                             newlib_stubs.o
+_fflush_r                                         C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+_fork                                             newlib_stubs.o
+_free_r                                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-freer.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+_fstat                                            newlib_stubs.o
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fstatr.o)
+_fstat_r                                          C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fstatr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+_fwalk_sglue                                      C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fwalk.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+_getpid                                           newlib_stubs.o
+_impure_data                                      C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-impure.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+_impure_ptr                                       C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-impure.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wsetup.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-wbuf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+                                                  main.o
+_iprintf_r                                        C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+_isatty                                           newlib_stubs.o
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-isattyr.o)
+_isatty_r                                         C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-isattyr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+_kill                                             newlib_stubs.o
+_link                                             newlib_stubs.o
+_lseek                                            newlib_stubs.o
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lseekr.o)
+_lseek_r                                          C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lseekr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+_malloc_r                                         C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-makebuf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+_malloc_usable_size_r                             C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-msizer.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+_printf_common                                    C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+_printf_float                                     C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+_printf_i                                         C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+_printf_r                                         C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+_puts_r                                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+_read                                             newlib_stubs.o
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-readr.o)
+_read_r                                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-readr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+_realloc_r                                        C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+_sbrk                                             newlib_stubs.o
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-sbrkr.o)
+_sbrk_r                                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-sbrkr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-mallocr.o)
+_stat                                             newlib_stubs.o
+_times                                            newlib_stubs.o
+_unlink                                           newlib_stubs.o
+_vfiprintf_r                                      C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+_vfprintf_r                                       C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+_wait                                             newlib_stubs.o
+_write                                            newlib_stubs.o
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-writer.o)
+_write_r                                          C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-writer.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-stdio.o)
+egetc                                             serial.o
+                                                  newlib_stubs.o
+egetc_echo                                        serial.o
+egets                                             serial.o
+egets_echo                                        serial.o
+environ                                           newlib_stubs.o
+eputc                                             serial.o
+                                                  newlib_stubs.o
+eputs                                             serial.o
+                                                  startup.o
+errno                                             C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-sbrkr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-isattyr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fstatr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-writer.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-readr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-lseekr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-closer.o)
+                                                  newlib_stubs.o
+fflush                                            C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fflush.o)
+                                                  main.o
+gpio_pin_mode_output                              hardware.o
+                                                  ir_motor.o
+                                                  tof_sensors.o
+gpio_write_high                                   hardware.o
+                                                  tof_sensors.o
+gpio_write_low                                    hardware.o
+                                                  tof_sensors.o
+initClock                                         startup.o
+initUART                                          serial.o
+                                                  startup.o
+iprintf                                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+led1_off                                          tof_sensors.o
+                                                  main.o
+led1_on                                           tof_sensors.o
+                                                  main.o
+led2_off                                          tof_sensors.o
+                                                  main.o
+led2_on                                           tof_sensors.o
+                                                  main.o
+leds_init                                         tof_sensors.o
+                                                  main.o
+main                                              main.o
+                                                  startup.o
+memchr                                            C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memchr-stub.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+memcpy                                            C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memcpy-stub.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-reallocr.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+memmove                                           C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memmove.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-fvwrite.o)
+memset                                            C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-memset.o)
+                                                  C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-findfp.o)
+print_ref_registers                               tof_sensors.o
+                                                  main.o
+printf                                            C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-printf.o)
+                                                  tof_sensors.o
+                                                  main.o
+process_ir_command                                ir_motor.o
+                                                  main.o
+puts                                              C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-puts.o)
+                                                  main.o
+usart_rx                                          serial.o
+usart_tx                                          serial.o
+vfiprintf                                         C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+vfprintf                                          C:\Users\jonat\Downloads\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+vl53l0x_device_is_booted                          tof_sensors.o
+                                                  main.o
+vl53l0x_init_device                               tof_sensors.o
+                                                  main.o
+vl53l0x_read_range_single_device                  tof_sensors.o
+                                                  main.o
+vl53l0x_set_address                               tof_sensors.o
+                                                  main.o
+waitms                                            hardware.o
+                                                  ir_motor.o
+                                                  tof_sensors.o
+                                                  main.o
+xshut1_low                                        tof_sensors.o
+                                                  main.o
+xshut1_release                                    tof_sensors.o
+                                                  main.o
+xshut2_low                                        tof_sensors.o
+                                                  main.o
+xshut2_release                                    tof_sensors.o
+                                                  main.o
+xshut_init                                        tof_sensors.o
+                                                  main.o

@@ -1,0 +1,135 @@
+#include <stdio.h>
+
+// Define constants for directions
+#define FORWARD  0
+#define LEFT     1
+#define RIGHT    2
+#define STOP     3
+
+// 2D Array: [Path Number][Intersection Number]
+// Path 1: Index 0, Path 2: Index 1, Path 3: Index 2
+const int paths[3][8] = {
+    {FORWARD, LEFT, LEFT, FORWARD, RIGHT, LEFT, RIGHT, STOP},    // Path 1
+    {LEFT, RIGHT, LEFT, RIGHT, FORWARD, FORWARD, STOP, STOP},    // Path 2
+    {RIGHT, FORWARD, RIGHT, LEFT, RIGHT, LEFT, FORWARD, STOP}    // Path 3
+};
+
+int active_path = 0; // Selected via remote
+int intersection_count = 0;
+int auto_mode = 0;
+
+volatile int * const LEDS = (int *)0xFF200000;
+volatile int * const SW   = (int *)0xFF200040;
+
+void move_forward() { 
+	*LEDS = 0x09; 
+	} //1001
+
+void turn_left() { 
+	*LEDS = 0x01; 
+	} //0001
+
+void turn_right() { 
+	*LEDS = 0x08; 
+	}//1000
+
+void stop_robot() { 
+	*LEDS = 0x00; 
+	}//0
+
+
+int intersection_detected() { 
+	return (*SW & 0x01); //SW0
+	}
+
+int get_distance_cm() { 
+	return (*SW & 0x02) ? 5 : 50; //SW1
+	}
+
+void follow_field() {
+	if (LEDS == 0x00) {
+		move_forward();
+	}
+}
+
+void check_remote_commands() {
+	int selection = (*SW >> 8) & 0x03; //shift right by 8 so move sw9 sw8
+	//to lowest single number position, 0x03 masks bit,
+	//sw8 9 off=path 1, 8path2,9path3
+
+    if (selection < 3) {
+        active_path = selection; // Sets Path 1, 2, or 3 
+    }
+
+    // Use SW7 (bit 7) to simulate the "Start Auto Mode" remote button 
+    if (*SW & 0x80) { //if sw7 on
+        if (auto_mode == 0) {
+            intersection_count = 0; // Reset for the new run
+            auto_mode = 1;
+        }
+    }
+}
+	
+
+
+void handle_intersection() {
+    if (intersection_count >= 8) {
+        stop_robot();
+        return;
+    }
+
+    int action = paths[active_path][intersection_count];
+
+    switch (action) {
+    case FORWARD:
+        move_forward(); 
+        break;
+    case LEFT:
+        turn_left(); 
+        break;
+    case RIGHT:
+        turn_right(); 
+        break;
+    case STOP:
+        stop_robot(); 
+        auto_mode = 0;
+        break;
+    }
+
+    intersection_count++;
+
+    // Debounce: Wait until the robot clears the intersection 
+    // to avoid multiple counts for one crossing.
+    while (intersection_detected()) {
+        follow_field();
+    }
+}
+
+// 6. Main Control Loop
+void main(void) {
+   // intersection_count = 0;
+   // auto_mode = 1;
+   // active_path = 2; //0 path 1, 1 path 2, 2 path 3
+
+    while (1) {
+		check_remote_commands();
+        
+		if (auto_mode) {
+            follow_field(); // Standard magnetic field following
+
+            // If the 3rd inductor picks up a crossing signal
+            if (intersection_detected()) {
+                handle_intersection();
+            }
+
+            // Collision Detection (VL53L0X)
+            if (get_distance_cm() < 10) {
+                stop_robot(); // Safety stop per requirement 8
+            }
+        }
+        else {
+            // Manual mode: wait for IR remote commands
+            check_remote_commands();
+        }
+    }
+}
