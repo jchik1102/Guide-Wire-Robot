@@ -55,7 +55,7 @@ The handheld remote provides another control interface through its own firmware 
 
 2. Build and install the app on an Android device with Bluetooth.
 
-3. Pair the phone with the robotâ€™s **HC-06** module in Android settings, then grant the appâ€™s requested Bluetooth permissions.
+3. Pair the phone with the robots **HC-06** module in Android settings, then grant the apps requested Bluetooth permissions.
 
 4. For the camera view, power the ESP32-CAM and connect the phone to its **RobotCAM** Wi-Fi network. The app expects the stream at `http://192.168.4.1/stream`.
 
