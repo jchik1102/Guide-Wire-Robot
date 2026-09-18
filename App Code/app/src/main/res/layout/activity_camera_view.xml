@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#000000">
+    <!--  Full-screen camera feed  -->
+    <ImageView android:id="@+id/camera_view" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter" android:background="#0A0A0A"/>
+    <!--  Back button  -->
+    <TextView android:id="@+id/btn_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="‹" android:textSize="28sp" android:textColor="#FFFFFF" android:background="@drawable/back_button_background" android:paddingStart="14dp" android:paddingEnd="14dp" android:paddingTop="4dp" android:paddingBottom="4dp" android:layout_gravity="top|start" android:layout_marginTop="40dp" android:layout_marginStart="16dp" android:clickable="true" android:focusable="true"/>
+    <!--  Mode title (top-right)  -->
+    <TextView android:id="@+id/tv_mode_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="MODE" android:textSize="12sp" android:textColor="#FFFFFF" android:fontFamily="sans-serif-medium" android:letterSpacing="0.1" android:background="@drawable/back_button_background" android:paddingStart="12dp" android:paddingEnd="12dp" android:paddingTop="6dp" android:paddingBottom="6dp" android:layout_gravity="top|end" android:layout_marginTop="40dp" android:layout_marginEnd="16dp"/>
+    <!--  Subtitle / Path name  -->
+    <TextView android:id="@+id/tv_subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="14sp" android:textColor="#FFFFFF" android:fontFamily="sans-serif" android:background="@drawable/back_button_background" android:paddingStart="12dp" android:paddingEnd="12dp" android:paddingTop="6dp" android:paddingBottom="6dp" android:layout_gravity="top|end" android:layout_marginTop="76dp" android:layout_marginEnd="16dp" android:visibility="gone"/>
+    <!--  Stream status (bottom-left)  -->
+    <TextView android:id="@+id/tv_stream_status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Connecting..." android:textSize="12sp" android:textColor="#8E8E93" android:background="@drawable/back_button_background" android:paddingStart="12dp" android:paddingEnd="12dp" android:paddingTop="6dp" android:paddingBottom="6dp" android:layout_gravity="bottom|start" android:layout_margin="16dp"/>
+</FrameLayout>

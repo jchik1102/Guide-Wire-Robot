@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:background="#000000">
+    <!--  Header  -->
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:paddingStart="24dp" android:paddingEnd="24dp" android:paddingTop="48dp" android:paddingBottom="8dp">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Robot Controller" android:textSize="32sp" android:textColor="#FFFFFF" android:fontFamily="sans-serif-light"/>
+        <TextView android:id="@+id/tv_status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Select a mode" android:textSize="15sp" android:textColor="#8E8E93" android:layout_marginTop="4dp"/>
+    </LinearLayout>
+    <!--  Divider  -->
+    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#1C1C1E" android:layout_marginStart="24dp" android:layout_marginEnd="24dp" android:layout_marginTop="12dp" android:layout_marginBottom="12dp"/>
+    <!--  Mode Cards  -->
+    <ScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:paddingStart="20dp" android:paddingEnd="20dp" android:clipToPadding="false">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:paddingBottom="24dp">
+            <!--  Row 1: Guide Wire + Manual  -->
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginBottom="12dp">
+                <!--  Guide Wire Card  -->
+                <FrameLayout android:id="@+id/btn_guide_wire_mode" android:layout_width="0dp" android:layout_height="120dp" android:layout_weight="1" android:layout_marginEnd="6dp" android:background="@drawable/card_background" android:clickable="true" android:focusable="true" android:foreground="?android:attr/selectableItemBackground">
+                    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="vertical" android:layout_gravity="bottom|start" android:padding="16dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="⚡" android:textSize="28sp" android:layout_marginBottom="8dp"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Guide Wire" android:textSize="16sp" android:textColor="#FFFFFF" android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+                </FrameLayout>
+                <!--  Manual Card  -->
+                <FrameLayout android:id="@+id/btn_manual_mode" android:layout_width="0dp" android:layout_height="120dp" android:layout_weight="1" android:layout_marginStart="6dp" android:background="@drawable/card_background" android:clickable="true" android:focusable="true" android:foreground="?android:attr/selectableItemBackground">
+                    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="vertical" android:layout_gravity="bottom|start" android:padding="16dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🕹️" android:textSize="28sp" android:layout_marginBottom="8dp"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Manual" android:textSize="16sp" android:textColor="#FFFFFF" android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+                </FrameLayout>
+            </LinearLayout>
+            <!--  Row 2: Learning + Noise  -->
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginBottom="12dp">
+                <!--  Learning Card  -->
+                <FrameLayout android:id="@+id/btn_learning_mode" android:layout_width="0dp" android:layout_height="120dp" android:layout_weight="1" android:layout_marginEnd="6dp" android:background="@drawable/card_background" android:clickable="true" android:focusable="true" android:foreground="?android:attr/selectableItemBackground">
+                    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="vertical" android:layout_gravity="bottom|start" android:padding="16dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🧠" android:textSize="28sp" android:layout_marginBottom="8dp"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Learning" android:textSize="16sp" android:textColor="#FFFFFF" android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+                </FrameLayout>
+                <!--  Noise Card  -->
+                <FrameLayout android:id="@+id/btn_noise_mode" android:layout_width="0dp" android:layout_height="120dp" android:layout_weight="1" android:layout_marginStart="6dp" android:background="@drawable/card_background" android:clickable="true" android:focusable="true" android:foreground="?android:attr/selectableItemBackground">
+                    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="vertical" android:layout_gravity="bottom|start" android:padding="16dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🔊" android:textSize="28sp" android:layout_marginBottom="8dp"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Noise" android:textSize="16sp" android:textColor="#FFFFFF" android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+                </FrameLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
