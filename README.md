@@ -15,7 +15,7 @@ An ELEC 291 robot project combining guide-wire navigation, handheld remote contr
 | Robot controller | Reads guide-wire sensors and controls the motors. The robot code includes path selection and intersection-handling implementations. |
 | Handheld remote | Contains EFM8-based remote code for joystick input, IR communication, LCD output, and feedback features. |
 | Android app | Provides manual joystick control, three guide-wire path selections, a learning-mode interface, and a camera view. It sends commands over Bluetooth to a paired HC-06 module. |
-| ESP32-CAM | Hosts a Wi-Fi network and serves an MJPEG video stream for the appâ€™s camera view. |
+| ESP32-CAM | Hosts a Wi-Fi network and serves an MJPEG video stream for the app's camera view. |
 
 
 
@@ -23,9 +23,9 @@ An ELEC 291 robot project combining guide-wire navigation, handheld remote contr
 
 
 
-- [Robot and Remote Code](Robot%20and%20Remote%20Code/) â€” robot and remote firmware, camera firmware, path configurations, and development versions.
+- [Robot and Remote Code](Robot%20and%20Remote%20Code/) : robot and remote firmware, camera firmware, path configurations, and development versions.
 
-- [App Code](App%20Code/) â€” Android Studio project for the robot controller app.
+- [App Code](App%20Code/) : Android Studio project for the robot controller app.
 
 
 
@@ -35,7 +35,7 @@ An ELEC 291 robot project combining guide-wire navigation, handheld remote contr
 
 - **Guide-wire paths:** Select one of three paths in the app. The robot code contains predefined actions for intersections along each path.
 
-- **Manual control:** Use the appâ€™s joystick to send forward, backward, left, right, and stop commands over Bluetooth.
+- **Manual control:** Use the app's joystick to send forward, backward, left, right, and stop commands over Bluetooth.
 
 - **Learning mode:** The app provides joystick and sensor recording options, a 20-second recording screen, and a replay command.
 
